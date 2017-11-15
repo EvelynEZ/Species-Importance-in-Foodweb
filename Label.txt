@@ -1,0 +1,95 @@
+Decaying material;1
+Plant juices;2
+Fruits and nectar;3
+Grains, seeds;4
+Grass and herbs;5
+Crops;6
+Trees and shrubs;7
+Thripidae Thrips;8
+Rove- and ground beetles;9
+Orb-weaver spiders;10
+Formicidae Ants;11
+Harvester termites;12
+Flies;13
+Crickets;14
+Herbivorous true bugs;15
+Katydids;16
+Preying mantids;17
+Centipedes;18
+Cockroaches;19
+Dwarf Puddle Frog;20
+Millipedes;21
+Shrew;22
+Banana pipistrelle;23
+Scorpions;24
+Gray flycatcher;25
+Yellow-breasted apalis;26
+Yellow-bellied Eremomela;27
+Red-faced Crombec;28
+Three-banded plover;29
+Dwarf Epauletted Bat;30
+Fat or tree mouse;31
+Mueller's Clawed Frog;32
+Cape teal;33
+Cape Dwarf Gecko;34
+Aquatic crustaceans, e.g. crabs;35
+Creek rat;36
+Fish, e.g. catfish;37
+Dwarf Sand Snake;38
+Pearl-spotted owlet;39
+Yellow-throated Sandgrouse;40
+Striped weasel;41
+African Grey hornbill;42
+Coqui francolin;43
+Rufous Beaked Snake;44
+Four-toed African hedgehog;45
+Little Grebe;46
+White-bellied bustard;47
+Bush hyrax;48
+African marsh owl;49
+Dwarf mongoose;50
+Hooded vulture;51
+Smith's red rock hare;52
+African fish eagle;53
+Domestic chicken;54
+Greater bush baby;55
+Marabou stork;56
+Southern ground hornbill;57
+Domestic cat;58
+Bat-eared fox;59
+Spot-necked otter;60
+Leopard tortoise;61
+African white-backed vulture;62
+Lappet-faced vulture;63
+Nile monitor lizard;64
+Kori bustard;65
+Black-and-white colobus monkey;66
+Black backed jackal;67
+Ground pangolin;68
+Serval cat;69
+African clawless otter;70
+Kirki's dikdik;71
+Crested porcupine;72
+Oribi;73
+African wild dog;74
+Black mamba;75
+Domestic dog;76
+Striped hyena;77
+Domestic goat;78
+Aardvark;79
+Leopard;80
+Domestic sheep;81
+Bohor reedbuck;82
+Bushpig;83
+Human;84
+Ostrich;85
+Lion;86
+Topi;87
+Buffalo;88
+Southern eland;89
+Domestic cattle;90
+Nile crocodile;91
+Maasai giraffe;92
+Black rhinoceros;93
+Hippopotamus;94
+African elephant;95
